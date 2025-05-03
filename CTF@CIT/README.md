@@ -8,4 +8,4 @@ CTF@CIT is an annual CTF challenge hosted around April 25th, 2025. Many challeng
 
 # Sections
 [CTF@CIT 2025](2025/README.md)\
-[CTF@CIT 2025](2026/README.md)
+[CTF@CIT 2026](2026/README.md)
